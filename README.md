@@ -2,9 +2,6 @@
 
 endpoint: AAD V1
 ---
-# Integrating Azure AD into a Java web application
-
-## About this sample
 
 ### Overview
 
